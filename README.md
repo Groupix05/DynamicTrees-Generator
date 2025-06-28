@@ -47,3 +47,4 @@ Dont forget the libs of your mods !!!
 Dont forget to add your mods in the mods.toml inside the resource folder (src/main/resources/META-INF) 
 
 
+Test
