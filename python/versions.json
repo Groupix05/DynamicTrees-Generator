@@ -1,0 +1,44 @@
+{
+    "1.16.5" :
+    {
+        "hasFabric": false,
+        "hasSinytra": false,
+        "hasDynamicTreesPlus": true,
+        "hasDynamicTreesAddonLib": false
+    },
+    "1.18.2" :
+    {
+        "hasFabric": false,
+        "hasSinytra": false,
+        "hasDynamicTreesPlus": true,
+        "hasDynamicTreesAddonLib": false
+    },
+    "1.19.2" :
+    {
+        "hasFabric": false,
+        "hasSinytra": false,
+        "hasDynamicTreesPlus": true,
+        "hasDynamicTreesAddonLib": false
+    },
+    "1.20.1" :
+    {
+        "hasFabric": false,
+        "hasSinytra": true,
+        "hasDynamicTreesPlus": true,
+        "hasDynamicTreesAddonLib": true
+    },
+    "1.21.1" :
+    {
+        "hasFabric": true,
+        "hasSinytra": true,
+        "hasDynamicTreesPlus": true,
+        "hasDynamicTreesAddonLib": true
+    },
+    "26.1.2" :
+    {
+        "hasFabric": true,
+        "hasSinytra": true,
+        "hasDynamicTreesPlus": true,
+        "hasDynamicTreesAddonLib": true
+    }
+}
